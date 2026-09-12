@@ -521,11 +521,3 @@ The dashboard shows that while students demonstrate relatively stronger performa
 
 Ultimately, the goal of the dashboard is not just to display numbers, but to help educators and decision-makers understand where students are performing well, where support is needed, and what actions could improve academic outcomes.
 
-
-## 📊 Power BI Report
-
-Want to explore the dashboard and see the work behind the analysis?
-
-👉 **[Download the Power BI (.pbix) file](./Students_Performance_Dashboard.pbix)**
-
-Open the file in **Microsoft Power BI Desktop** to explore the data model, DAX measures, transformations, interactive filters, and dashboard design.
